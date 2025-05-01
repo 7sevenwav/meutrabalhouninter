@@ -1,0 +1,22 @@
+body{
+    background-color: #fbffd2;
+}
+h1{
+    text-align: center;
+    text-shadow: 2px 1px #0000004f;
+    color:#74581c
+}
+p{
+    text-align: justify;
+    margin: 100px;
+}
+.tituloLista{
+    color: #725414;
+    margin: 100px;
+}
+li{
+    line-height: 50px;
+}
+button{
+    
+}
